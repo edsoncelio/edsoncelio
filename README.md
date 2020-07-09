@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+#### Já ouviu falar a palavra do DevOps?
+
+![](https://image.slidesharecdn.com/criciumadevjr-170530171129/95/devops-culture-como-implementar-mtodos-geis-em-infraestrutura-como-cdigo-6-638.jpg?cb=1496323318)
 
 <!--
 **edsoncelio/edsoncelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
