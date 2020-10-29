@@ -1,6 +1,6 @@
 ## Hey 👋
 
-### Já ouviu a palavra do DevOps hoje?
+### Let's talk about DevOps?
 
 ![](https://image.slidesharecdn.com/criciumadevjr-170530171129/95/devops-culture-como-implementar-mtodos-geis-em-infraestrutura-como-cdigo-6-638.jpg?cb=1496323318)
 
