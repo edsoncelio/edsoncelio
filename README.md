@@ -5,7 +5,7 @@
 
 ### I am...
 * 🎓 Graduate student at **[UFC](https://ufc.br)**
-* 👨‍💻 DevOps engineer working at **[Instituto Atlantico](https://www.atlantico.com.br)**
+* 👨‍💻 Working at **[Instituto Atlantico](https://www.atlantico.com.br)**
 * 🐳 Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
 
 ### More about me...
