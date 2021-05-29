@@ -7,6 +7,7 @@
 * 🎓 Graduate student at **[UFC](https://ufc.br)**
 * 👨‍💻 Working at **[Instituto Atlantico](https://www.atlantico.com.br)**
 * 🐳 Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
+* ☸ Kubernetes contributor ([docs pt-br](https://kubernetes.io/pt-br/))
 
 ### More about me...
 * 🌱  I’m currently learning **Go**
