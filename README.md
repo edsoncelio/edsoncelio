@@ -7,7 +7,7 @@
 * 👨‍💻 Work at **[@pagarme](https://pagar.me)**
 * 🐳 Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
 * ☸ Kubernetes contributor ([docs pt-br](https://kubernetes.io/pt-br/))
-* 🛠️ Terraform Certificated 
+* 🛠️ Terraform Certified 
 
 ### More about me...
 * 🌱  I’m currently learning **Go**
