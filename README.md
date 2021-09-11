@@ -8,6 +8,10 @@
 * 🐳 Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
 * ☸ Kubernetes contributor ([docs pt-br](https://kubernetes.io/pt-br/))
 * 🛠️ Terraform Certified 
-
+### Ask me about...
+* Devops
+* Docker and containers in general
+* Terraform and IaC practices
+* CI/CD tools (Gitlab CI/CD, Github Actions...) 
 ### More about me...
 * 🌱  I’m currently learning **Go**
