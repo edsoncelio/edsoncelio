@@ -6,6 +6,7 @@
 ### I am...
 * 🐳 Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
 * ☸ Kubernetes contributor ([docs pt-br](https://kubernetes.io/pt-br/))
+* CNCF Glossary [PT localization contributor](https://github.com/cncf/glossary)
 * 🛠️ Terraform Certified
 * Kubernetes and Cloud Native Associate (KCNA) Certified
   
