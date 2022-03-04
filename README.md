@@ -9,6 +9,7 @@
 * CNCF Glossary [PT localization contributor](https://github.com/cncf/glossary)
 * 🛠️ Terraform Certified
 * Kubernetes and Cloud Native Associate (KCNA) Certified
+* AWS Community Builder by [AWS]()
   
 ### Ask me about...
 * Devops
