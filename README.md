@@ -22,3 +22,4 @@
 ### More about me...
 * 🌱  I’m currently learning **Go**
 * 🌱  I’m currently learning about policy as code with **Open Policy Agent**
+* I love to talk about Formula 1 things
