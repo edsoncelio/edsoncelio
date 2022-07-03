@@ -9,6 +9,7 @@
 * Hashicorp Ambassador by **[Hashicorp](https://www.hashicorp.com/)**
 * Terraform Certified
 * Kubernetes and Cloud Native Associate (KCNA) Certified
+* AWS Solutions Architect Associate Certified (SAA)
 * [kubernetes/website](https://kubernetes.io/pt-br/) contributor (docs-ptbr)
 * [cncf/glossary](https://github.com/cncf/glossary) contributor (ptbr)
 
