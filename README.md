@@ -10,6 +10,7 @@
 * Terraform Certified
 * Kubernetes and Cloud Native Associate (KCNA) Certified
 * AWS Solutions Architect Associate Certified (SAA)
+* AWS Developer Associate Certified
 * [kubernetes/website](https://kubernetes.io/pt-br/) contributor (docs-ptbr)
 * [cncf/glossary](https://github.com/cncf/glossary) contributor (ptbr)
 
