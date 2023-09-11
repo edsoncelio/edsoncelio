@@ -22,8 +22,4 @@
 * Terraform and IaC practices
 * CI/CD tools (Gitlab CI/CD, Github Actions...) 
 * Cloud Native tools and practices
-  
-### More about me...
-* 🌱  I’m currently learning **Go**
-* 🌱  I’m currently learning about policy as code with **Open Policy Agent**
-* I love to talk about Formula 1 things
+* FinOps
