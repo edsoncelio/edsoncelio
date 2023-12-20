@@ -13,14 +13,6 @@
 * Hashicorp Ambassador by **[Hashicorp](https://www.hashicorp.com/)**
 * Grafana Champion by **[Grafana Labs](https://grafana.com/community/champions/)**
 
-### Certifications
-* HashiCorp Terraform Certified
-* Kubernetes and Cloud Native Associate (KCNA) Certified
-* AWS Certified Solutions Architect Associate
-* AWS Certified  Developer Associate Certified
-* AWS Certified SysOps Administrator Associate
-* FinOps Practitioner Certified
-
 ### Let's talk about...
 * Opensource projects to contribute 
 * Devops
