@@ -9,8 +9,6 @@
 
 ### Community Roles
 * AWS Community Builder by [AWS](https://aws.amazon.com/pt/developer/community/community-builders/)
-* Docker Community Leader by **[Docker](https://events.docker.com/u/mc3fb2/#/about)**
-* Hashicorp Ambassador by **[Hashicorp](https://www.hashicorp.com/)**
 * Grafana Champion by **[Grafana Labs](https://grafana.com/community/champions/)**
 
 ### Let's talk about...
