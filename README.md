@@ -3,8 +3,8 @@
 <p><a href="https://www.linkedin.com/in/edsoncelio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 
 ### I am...
-* SRE/DevOps
-* [kubernetes/website](https://kubernetes.io/pt-br/) documentation (PTBR) maintainer
+* Site Reliability Engineer
+* [kubernetes/website](https://kubernetes.io/pt-br/) localization (PTBR) maintainer
 * [cncf/glossary](https://github.com/cncf/glossary) localization (PTBR) maintainer
 
 ### Community Roles
@@ -14,10 +14,10 @@
 
 
 ### Let's talk about...
-* Opensource projects to contribute 
-* Devops
-* Docker and containers in general
-* Terraform and IaC practices
-* CI/CD tools (Gitlab CI/CD, Github Actions...) 
-* Cloud Native tools and practices
-* FinOps
+* OpenSource Contributions
+* DevOps Culture
+* Cloud Native
+* Infrastructure as a Code
+* Observability
+* Containers
+* CI/CD 
