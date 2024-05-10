@@ -10,6 +10,8 @@
 ### Community Roles
 * AWS Community Builder by [AWS](https://aws.amazon.com/pt/developer/community/community-builders/)
 * Grafana Champion by **[Grafana Labs](https://grafana.com/community/champions/)**
+* CNCF Ambassador by **[CNCF](https://www.cncf.io/)**
+
 
 ### Let's talk about...
 * Opensource projects to contribute 
