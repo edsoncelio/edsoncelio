@@ -7,7 +7,3 @@
 * [kubernetes/website](https://kubernetes.io/pt-br/) localization (PTBR) maintainer
 * [cncf/glossary](https://github.com/cncf/glossary) localization (PTBR) maintainer
 
-### Community Roles
-* AWS Community Builder by [AWS](https://aws.amazon.com/pt/developer/community/community-builders/)
-* Grafana Champion by **[Grafana Labs](https://grafana.com/community/champions/)**
-* CNCF Ambassador by **[CNCF](https://www.cncf.io/)**
